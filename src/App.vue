@@ -4,7 +4,8 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/view">View</router-link> |
       <router-link to="/store">Store</router-link> |
-      <router-link to="/callback">Callback</router-link>
+      <router-link to="/callback">Callback</router-link> |
+      <router-link to="/birthday">Birthday</router-link>
     </div>
     <router-view/>
   </div>
